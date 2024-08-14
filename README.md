@@ -30,7 +30,7 @@ This is my third project created using React.js. The page acts as a page represe
 <strong>Creation Process</strong> </br>
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
 <strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
-<strong>Data:</strong> Data is passed in via props.</br>
+<strong>Data:</strong> Data is passed in via props(props drilling).</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
 <strong>Hooks:</strong> Using the `useState` hook to update the page state.</br>
 <strong>Functions:</strong> `Collapse/Expand`</br>
